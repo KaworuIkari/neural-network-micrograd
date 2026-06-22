@@ -1,3 +1,3 @@
 # Micrograd from scratch
 
-this notebook builds the micrograd from scratching following the tutorial by Andrej Karpathy.
+this notebook follows Andrej Karpathy's series on neural network to build everything from scratch in a linear order, which is easy for review.
